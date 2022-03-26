@@ -1,5 +1,7 @@
-### Hi there 👋
-### Namaste! 🙏
+### 🙏 Namaskaram! This is @rohanadhvaryu
+### 👀 I'm interested in Cyber Security
+### 🔭 I’m currently working on Applicaiton Security
+### 📫 How to reach me: rohanadhvaryu@gmail.com
 
 <!--
 **rohanadhvaryu/rohanadhvaryu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### Hi there 👋
 -->

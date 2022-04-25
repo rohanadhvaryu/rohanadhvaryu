@@ -1,5 +1,5 @@
 ### 🙏 Namaskaram! This is @rohanadhvaryu
-### 👀 I'm interested in Cyber Security and technology
+### 👀 I'm interested in Cyber Security and technologies
 ### 🔭 I’m currently working on Applicaiton Security
 ### 💻 My skills: C, Python, HTML, CSS, JS, Linux, Networking, Pentesting.
 ### 📫 How to reach me: rohanadhvaryu@gmail.com

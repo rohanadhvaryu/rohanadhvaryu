@@ -1,4 +1,4 @@
-### 🙏 Namaskaram! This is @rohanadhvaryu
+### 🙏 Namaste! This is @rohanadhvaryu
 ### 👀 I'm interested in Cyber Security and technologies.
 ### 🔭 I’m currently working on Applicaiton Security.
 ### 💻 My skills: Pentesting, Networking, C, Python, HTML, CSS, JS, Linux.
